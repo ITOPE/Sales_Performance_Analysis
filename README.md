@@ -69,4 +69,14 @@ The discount given to customers is way too high.
 Although, we saw an overall uptrend in sales, we were 1% behind our sales target and also had a 5.6% profit margin in the fiscal year. This performance is poor a poor one. From our findings we deduced that the cost of goods and the unit price of products are good but we have a faulty discounting system. 
 Goods are sold to different customers at different prices, which most times is way below the set price. We therefore recommend that a well planned discounting system should be put in place.
 
-Our brand is only known to 25 Cities across India, with low patronage in most of the cities. The company should engage in brand awareness, through social media promotions, social ads, to mention but few.
+Our brand is only known to 25 Cities across India, with low patronage in most of the cities. The company should engage in brand awareness, through social media promotions and social ads, to mention but few.
+
+# Background Template
+The background templated were created in PowerPoint.
+
+# Author
+- GitHub: ITOPE
+- LinkedIn: Itunu Fatokunbo
+
+# Contribution
+Contributions, issues and requests are welcome!
