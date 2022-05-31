@@ -72,7 +72,7 @@ Goods are sold to different customers at different prices, which most times is w
 Our brand is only known to 25 Cities across India, with low patronage in most of the cities. The company should engage in brand awareness, through social media promotions and social ads, to mention but few.
 
 # Background Template
-The background templated were created in PowerPoint.
+The background templates used were created in Microsoft PowerPoint 2010.
 
 # Author
 - GitHub: ITOPE
